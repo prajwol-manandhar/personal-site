@@ -1,11 +1,11 @@
 {
   "private": true,
-  "name": "cara",
-  "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
+  "name": "Prajwol Manandhar",
+  "description": "Personal Website of Prajwol manandhar",
   "version": "0.2.8",
-  "author": "LekoArts <hello@lekoarts.de>",
+  "author": "Prajwol Manandhar",
   "license": "0BSD",
-  "starter-name": "gatsby-starter-portfolio-cara",
+  "starter-name": "gatsby-starter-portfolio-prajwolmanandhar",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
